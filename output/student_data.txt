@@ -1,0 +1,5196 @@
+
+ .. NAME:
+
+Bojack Horseman
+
+ .. ID NUMBER:
+
+92834
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	nan / 10.00
+
+
+	 .. HW 2:
+
+	4.00 / 10.00
+
+
+	 .. HW 3:
+
+	5.50 / 10.00
+
+
+	 .. HW 4:
+
+	5.00 / 10.00
+
+
+	 .. HW 5:
+
+	6.00 / 10.00
+
+
+	 .. HW 6:
+
+	8.00 / 10.00
+
+
+	 .. HW 7:
+
+	8.50 / 10.00
+
+
+	 .. HW 8:
+
+	8.00 / 10.00
+
+
+	 .. HW 9:
+
+	8.00 / 10.00
+
+
+	 .. HW 10:
+
+	9.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		6.89
+
+
+		 .. median:
+
+		8.00
+
+
+		 .. maximum:
+
+		9.00
+
+
+		 .. minimum:
+
+		4.00
+
+
+		 .. standard deviation:
+
+		1.68
+
+
+		 .. total:
+
+		62.00
+
+
+		 .. number missing:
+
+		1
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	18.00 / 30.00
+
+
+	 .. Test:
+
+	43.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		30.50
+
+
+		 .. median:
+
+		30.50
+
+
+		 .. maximum:
+
+		43.00
+
+
+		 .. minimum:
+
+		18.00
+
+
+		 .. standard deviation:
+
+		12.50
+
+
+		 .. total:
+
+		61.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	1.59
+
+
+	 .. exam improvement curve:
+
+	6.67
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		4.42
+
+
+		 .. median:
+
+		5.00
+
+
+		 .. maximum:
+
+		6.67
+
+
+		 .. minimum:
+
+		1.59
+
+
+		 .. standard deviation:
+
+		2.11
+
+
+		 .. total:
+
+		13.25
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+136.25
+
+ .. GRADE:
+
+B+
+
+==========
+
+ .. NAME:
+
+Archer Sterling
+
+ .. ID NUMBER:
+
+17273
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	8.00 / 10.00
+
+
+	 .. HW 2:
+
+	7.00 / 10.00
+
+
+	 .. HW 3:
+
+	8.00 / 10.00
+
+
+	 .. HW 4:
+
+	6.50 / 10.00
+
+
+	 .. HW 5:
+
+	7.50 / 10.00
+
+
+	 .. HW 6:
+
+	6.00 / 10.00
+
+
+	 .. HW 7:
+
+	8.00 / 10.00
+
+
+	 .. HW 8:
+
+	9.00 / 10.00
+
+
+	 .. HW 9:
+
+	9.00 / 10.00
+
+
+	 .. HW 10:
+
+	10.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		7.90
+
+
+		 .. median:
+
+		8.00
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		6.00
+
+
+		 .. standard deviation:
+
+		1.16
+
+
+		 .. total:
+
+		79.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	25.00 / 30.00
+
+
+	 .. Test:
+
+	41.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		33.00
+
+
+		 .. median:
+
+		33.00
+
+
+		 .. maximum:
+
+		41.00
+
+
+		 .. minimum:
+
+		25.00
+
+
+		 .. standard deviation:
+
+		8.00
+
+
+		 .. total:
+
+		66.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.50
+
+
+	 .. exam improvement curve:
+
+	1.46
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		2.32
+
+
+		 .. median:
+
+		1.46
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.50
+
+
+		 .. standard deviation:
+
+		1.94
+
+
+		 .. total:
+
+		6.96
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+151.96
+
+ .. GRADE:
+
+A+
+
+==========
+
+ .. NAME:
+
+Maximus Decimus Meridius
+
+ .. ID NUMBER:
+
+48730
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	6.00 / 10.00
+
+
+	 .. HW 2:
+
+	5.00 / 10.00
+
+
+	 .. HW 3:
+
+	5.50 / 10.00
+
+
+	 .. HW 4:
+
+	5.00 / 10.00
+
+
+	 .. HW 5:
+
+	4.00 / 10.00
+
+
+	 .. HW 6:
+
+	9.00 / 10.00
+
+
+	 .. HW 7:
+
+	9.50 / 10.00
+
+
+	 .. HW 8:
+
+	9.00 / 10.00
+
+
+	 .. HW 9:
+
+	nan / 10.00
+
+
+	 .. HW 10:
+
+	8.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		6.78
+
+
+		 .. median:
+
+		6.00
+
+
+		 .. maximum:
+
+		9.50
+
+
+		 .. minimum:
+
+		4.00
+
+
+		 .. standard deviation:
+
+		1.97
+
+
+		 .. total:
+
+		61.00
+
+
+		 .. number missing:
+
+		1
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	19.50 / 30.00
+
+
+	 .. Test:
+
+	40.50 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		30.00
+
+
+		 .. median:
+
+		30.00
+
+
+		 .. maximum:
+
+		40.50
+
+
+		 .. minimum:
+
+		19.50
+
+
+		 .. standard deviation:
+
+		10.50
+
+
+		 .. total:
+
+		60.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	1.89
+
+
+	 .. exam improvement curve:
+
+	4.69
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		3.86
+
+
+		 .. median:
+
+		4.69
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		1.89
+
+
+		 .. standard deviation:
+
+		1.40
+
+
+		 .. total:
+
+		11.57
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+132.57
+
+ .. GRADE:
+
+B+
+
+==========
+
+ .. NAME:
+
+Al Simmons
+
+ .. ID NUMBER:
+
+98739
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	9.00 / 10.00
+
+
+	 .. HW 2:
+
+	8.00 / 10.00
+
+
+	 .. HW 3:
+
+	7.00 / 10.00
+
+
+	 .. HW 4:
+
+	8.50 / 10.00
+
+
+	 .. HW 5:
+
+	7.00 / 10.00
+
+
+	 .. HW 6:
+
+	8.00 / 10.00
+
+
+	 .. HW 7:
+
+	7.50 / 10.00
+
+
+	 .. HW 8:
+
+	8.50 / 10.00
+
+
+	 .. HW 9:
+
+	9.00 / 10.00
+
+
+	 .. HW 10:
+
+	9.50 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		8.20
+
+
+		 .. median:
+
+		8.25
+
+
+		 .. maximum:
+
+		9.50
+
+
+		 .. minimum:
+
+		7.00
+
+
+		 .. standard deviation:
+
+		0.81
+
+
+		 .. total:
+
+		82.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	20.00 / 30.00
+
+
+	 .. Test:
+
+	41.50 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		30.75
+
+
+		 .. median:
+
+		30.75
+
+
+		 .. maximum:
+
+		41.50
+
+
+		 .. minimum:
+
+		20.00
+
+
+		 .. standard deviation:
+
+		10.75
+
+
+		 .. total:
+
+		61.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.30
+
+
+	 .. exam improvement curve:
+
+	4.79
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		3.36
+
+
+		 .. median:
+
+		4.79
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.30
+
+
+		 .. standard deviation:
+
+		2.17
+
+
+		 .. total:
+
+		10.09
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+153.59
+
+ .. GRADE:
+
+A+
+
+==========
+
+ .. NAME:
+
+Bruce Wayne
+
+ .. ID NUMBER:
+
+34854
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	7.00 / 10.00
+
+
+	 .. HW 2:
+
+	7.00 / 10.00
+
+
+	 .. HW 3:
+
+	6.00 / 10.00
+
+
+	 .. HW 4:
+
+	8.50 / 10.00
+
+
+	 .. HW 5:
+
+	6.00 / 10.00
+
+
+	 .. HW 6:
+
+	7.00 / 10.00
+
+
+	 .. HW 7:
+
+	9.00 / 10.00
+
+
+	 .. HW 8:
+
+	9.00 / 10.00
+
+
+	 .. HW 9:
+
+	9.50 / 10.00
+
+
+	 .. HW 10:
+
+	9.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		7.80
+
+
+		 .. median:
+
+		7.75
+
+
+		 .. maximum:
+
+		9.50
+
+
+		 .. minimum:
+
+		6.00
+
+
+		 .. standard deviation:
+
+		1.27
+
+
+		 .. total:
+
+		78.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	21.00 / 30.00
+
+
+	 .. Test:
+
+	36.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		28.50
+
+
+		 .. median:
+
+		28.50
+
+
+		 .. maximum:
+
+		36.00
+
+
+		 .. minimum:
+
+		21.00
+
+
+		 .. standard deviation:
+
+		7.50
+
+
+		 .. total:
+
+		57.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.90
+
+
+	 .. exam improvement curve:
+
+	1.88
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		2.59
+
+
+		 .. median:
+
+		1.88
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.90
+
+
+		 .. standard deviation:
+
+		1.75
+
+
+		 .. total:
+
+		7.78
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+142.78
+
+ .. GRADE:
+
+A-
+
+==========
+
+ .. NAME:
+
+Remy Lebeau
+
+ .. ID NUMBER:
+
+74932
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	8.00 / 10.00
+
+
+	 .. HW 2:
+
+	7.00 / 10.00
+
+
+	 .. HW 3:
+
+	6.00 / 10.00
+
+
+	 .. HW 4:
+
+	7.00 / 10.00
+
+
+	 .. HW 5:
+
+	6.50 / 10.00
+
+
+	 .. HW 6:
+
+	7.50 / 10.00
+
+
+	 .. HW 7:
+
+	9.50 / 10.00
+
+
+	 .. HW 8:
+
+	5.00 / 10.00
+
+
+	 .. HW 9:
+
+	10.00 / 10.00
+
+
+	 .. HW 10:
+
+	10.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		7.65
+
+
+		 .. median:
+
+		7.25
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		5.00
+
+
+		 .. standard deviation:
+
+		1.63
+
+
+		 .. total:
+
+		76.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	13.00 / 30.00
+
+
+	 .. Test:
+
+	27.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		20.00
+
+
+		 .. median:
+
+		20.00
+
+
+		 .. maximum:
+
+		27.00
+
+
+		 .. minimum:
+
+		13.00
+
+
+		 .. standard deviation:
+
+		7.00
+
+
+		 .. total:
+
+		40.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.75
+
+
+	 .. exam improvement curve:
+
+	3.12
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		2.96
+
+
+		 .. median:
+
+		3.12
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.75
+
+
+		 .. standard deviation:
+
+		1.74
+
+
+		 .. total:
+
+		8.88
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+125.38
+
+ .. GRADE:
+
+B
+
+==========
+
+ .. NAME:
+
+Mrs. Beasley
+
+ .. ID NUMBER:
+
+87732
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	7.50 / 10.00
+
+
+	 .. HW 2:
+
+	7.00 / 10.00
+
+
+	 .. HW 3:
+
+	7.00 / 10.00
+
+
+	 .. HW 4:
+
+	9.00 / 10.00
+
+
+	 .. HW 5:
+
+	9.00 / 10.00
+
+
+	 .. HW 6:
+
+	10.00 / 10.00
+
+
+	 .. HW 7:
+
+	10.00 / 10.00
+
+
+	 .. HW 8:
+
+	10.00 / 10.00
+
+
+	 .. HW 9:
+
+	9.00 / 10.00
+
+
+	 .. HW 10:
+
+	9.50 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		8.80
+
+
+		 .. median:
+
+		9.00
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		7.00
+
+
+		 .. standard deviation:
+
+		1.14
+
+
+		 .. total:
+
+		88.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	16.00 / 30.00
+
+
+	 .. Test:
+
+	39.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		27.50
+
+
+		 .. median:
+
+		27.50
+
+
+		 .. maximum:
+
+		39.00
+
+
+		 .. minimum:
+
+		16.00
+
+
+		 .. standard deviation:
+
+		11.50
+
+
+		 .. total:
+
+		55.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.90
+
+
+	 .. exam improvement curve:
+
+	6.25
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		4.05
+
+
+		 .. median:
+
+		5.00
+
+
+		 .. maximum:
+
+		6.25
+
+
+		 .. minimum:
+
+		0.90
+
+
+		 .. standard deviation:
+
+		2.29
+
+
+		 .. total:
+
+		12.15
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+155.15
+
+ .. GRADE:
+
+A+
+
+==========
+
+ .. NAME:
+
+Daria Morgendorffer
+
+ .. ID NUMBER:
+
+32456
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	8.50 / 10.00
+
+
+	 .. HW 2:
+
+	8.00 / 10.00
+
+
+	 .. HW 3:
+
+	nan / 10.00
+
+
+	 .. HW 4:
+
+	8.00 / 10.00
+
+
+	 .. HW 5:
+
+	9.00 / 10.00
+
+
+	 .. HW 6:
+
+	8.50 / 10.00
+
+
+	 .. HW 7:
+
+	10.00 / 10.00
+
+
+	 .. HW 8:
+
+	9.00 / 10.00
+
+
+	 .. HW 9:
+
+	10.00 / 10.00
+
+
+	 .. HW 10:
+
+	8.50 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		8.83
+
+
+		 .. median:
+
+		8.50
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		8.00
+
+
+		 .. standard deviation:
+
+		0.71
+
+
+		 .. total:
+
+		79.50
+
+
+		 .. number missing:
+
+		1
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	25.00 / 30.00
+
+
+	 .. Test:
+
+	38.50 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		31.75
+
+
+		 .. median:
+
+		31.75
+
+
+		 .. maximum:
+
+		38.50
+
+
+		 .. minimum:
+
+		25.00
+
+
+		 .. standard deviation:
+
+		6.75
+
+
+		 .. total:
+
+		63.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.41
+
+
+	 .. exam improvement curve:
+
+	0.42
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		1.94
+
+
+		 .. median:
+
+		0.42
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.41
+
+
+		 .. standard deviation:
+
+		2.16
+
+
+		 .. total:
+
+		5.83
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+148.83
+
+ .. GRADE:
+
+A
+
+==========
+
+ .. NAME:
+
+Darth Plagueis
+
+ .. ID NUMBER:
+
+98702
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	2.50 / 10.00
+
+
+	 .. HW 2:
+
+	6.00 / 10.00
+
+
+	 .. HW 3:
+
+	5.00 / 10.00
+
+
+	 .. HW 4:
+
+	8.00 / 10.00
+
+
+	 .. HW 5:
+
+	7.50 / 10.00
+
+
+	 .. HW 6:
+
+	9.00 / 10.00
+
+
+	 .. HW 7:
+
+	9.50 / 10.00
+
+
+	 .. HW 8:
+
+	9.50 / 10.00
+
+
+	 .. HW 9:
+
+	9.00 / 10.00
+
+
+	 .. HW 10:
+
+	8.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		7.40
+
+
+		 .. median:
+
+		8.00
+
+
+		 .. maximum:
+
+		9.50
+
+
+		 .. minimum:
+
+		2.50
+
+
+		 .. standard deviation:
+
+		2.15
+
+
+		 .. total:
+
+		74.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	23.00 / 30.00
+
+
+	 .. Test:
+
+	36.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		29.50
+
+
+		 .. median:
+
+		29.50
+
+
+		 .. maximum:
+
+		36.00
+
+
+		 .. minimum:
+
+		23.00
+
+
+		 .. standard deviation:
+
+		6.50
+
+
+		 .. total:
+
+		59.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	1.60
+
+
+	 .. exam improvement curve:
+
+	0.62
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		2.41
+
+
+		 .. median:
+
+		1.60
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.62
+
+
+		 .. standard deviation:
+
+		1.88
+
+
+		 .. total:
+
+		7.22
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+140.22
+
+ .. GRADE:
+
+A-
+
+==========
+
+ .. NAME:
+
+Eric Cartman
+
+ .. ID NUMBER:
+
+78402
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	6.50 / 10.00
+
+
+	 .. HW 2:
+
+	6.00 / 10.00
+
+
+	 .. HW 3:
+
+	7.00 / 10.00
+
+
+	 .. HW 4:
+
+	8.50 / 10.00
+
+
+	 .. HW 5:
+
+	6.50 / 10.00
+
+
+	 .. HW 6:
+
+	8.00 / 10.00
+
+
+	 .. HW 7:
+
+	8.00 / 10.00
+
+
+	 .. HW 8:
+
+	8.00 / 10.00
+
+
+	 .. HW 9:
+
+	8.00 / 10.00
+
+
+	 .. HW 10:
+
+	9.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		7.55
+
+
+		 .. median:
+
+		8.00
+
+
+		 .. maximum:
+
+		9.00
+
+
+		 .. minimum:
+
+		6.00
+
+
+		 .. standard deviation:
+
+		0.93
+
+
+		 .. total:
+
+		75.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	22.50 / 30.00
+
+
+	 .. Test:
+
+	34.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		28.25
+
+
+		 .. median:
+
+		28.25
+
+
+		 .. maximum:
+
+		34.00
+
+
+		 .. minimum:
+
+		22.50
+
+
+		 .. standard deviation:
+
+		5.75
+
+
+		 .. total:
+
+		56.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.65
+
+
+	 .. exam improvement curve:
+
+	0.10
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		1.92
+
+
+		 .. median:
+
+		0.65
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.10
+
+
+		 .. standard deviation:
+
+		2.19
+
+
+		 .. total:
+
+		5.75
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+137.75
+
+ .. GRADE:
+
+A-
+
+==========
+
+ .. NAME:
+
+Jean Grey
+
+ .. ID NUMBER:
+
+29384
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	2.00 / 10.00
+
+
+	 .. HW 2:
+
+	2.50 / 10.00
+
+
+	 .. HW 3:
+
+	3.00 / 10.00
+
+
+	 .. HW 4:
+
+	6.00 / 10.00
+
+
+	 .. HW 5:
+
+	4.00 / 10.00
+
+
+	 .. HW 6:
+
+	5.00 / 10.00
+
+
+	 .. HW 7:
+
+	7.50 / 10.00
+
+
+	 .. HW 8:
+
+	nan / 10.00
+
+
+	 .. HW 9:
+
+	10.00 / 10.00
+
+
+	 .. HW 10:
+
+	10.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		5.56
+
+
+		 .. median:
+
+		5.00
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		2.00
+
+
+		 .. standard deviation:
+
+		2.88
+
+
+		 .. total:
+
+		50.00
+
+
+		 .. number missing:
+
+		1
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	24.00 / 30.00
+
+
+	 .. Test:
+
+	20.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		22.00
+
+
+		 .. median:
+
+		22.00
+
+
+		 .. maximum:
+
+		24.00
+
+
+		 .. minimum:
+
+		20.00
+
+
+		 .. standard deviation:
+
+		2.00
+
+
+		 .. total:
+
+		44.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	2.31
+
+
+	 .. exam improvement curve:
+
+	0.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		2.44
+
+
+		 .. median:
+
+		2.31
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.00
+
+
+		 .. standard deviation:
+
+		2.04
+
+
+		 .. total:
+
+		7.31
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+101.31
+
+ .. GRADE:
+
+C-
+
+==========
+
+ .. NAME:
+
+Rick Sanchez
+
+ .. ID NUMBER:
+
+10102
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	2.00 / 10.00
+
+
+	 .. HW 2:
+
+	3.00 / 10.00
+
+
+	 .. HW 3:
+
+	2.00 / 10.00
+
+
+	 .. HW 4:
+
+	5.00 / 10.00
+
+
+	 .. HW 5:
+
+	5.00 / 10.00
+
+
+	 .. HW 6:
+
+	6.00 / 10.00
+
+
+	 .. HW 7:
+
+	8.00 / 10.00
+
+
+	 .. HW 8:
+
+	6.50 / 10.00
+
+
+	 .. HW 9:
+
+	9.50 / 10.00
+
+
+	 .. HW 10:
+
+	9.50 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		5.65
+
+
+		 .. median:
+
+		5.50
+
+
+		 .. maximum:
+
+		9.50
+
+
+		 .. minimum:
+
+		2.00
+
+
+		 .. standard deviation:
+
+		2.66
+
+
+		 .. total:
+
+		56.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	13.00 / 30.00
+
+
+	 .. Test:
+
+	31.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		22.00
+
+
+		 .. median:
+
+		22.00
+
+
+		 .. maximum:
+
+		31.00
+
+
+		 .. minimum:
+
+		13.00
+
+
+		 .. standard deviation:
+
+		9.00
+
+
+		 .. total:
+
+		44.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	2.25
+
+
+	 .. exam improvement curve:
+
+	4.79
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		4.01
+
+
+		 .. median:
+
+		4.79
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		2.25
+
+
+		 .. standard deviation:
+
+		1.25
+
+
+		 .. total:
+
+		12.04
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+112.54
+
+ .. GRADE:
+
+C+
+
+==========
+
+ .. NAME:
+
+Harleen Quinzel
+
+ .. ID NUMBER:
+
+39204
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	3.00 / 10.00
+
+
+	 .. HW 2:
+
+	3.50 / 10.00
+
+
+	 .. HW 3:
+
+	7.50 / 10.00
+
+
+	 .. HW 4:
+
+	9.00 / 10.00
+
+
+	 .. HW 5:
+
+	8.00 / 10.00
+
+
+	 .. HW 6:
+
+	9.00 / 10.00
+
+
+	 .. HW 7:
+
+	9.00 / 10.00
+
+
+	 .. HW 8:
+
+	8.50 / 10.00
+
+
+	 .. HW 9:
+
+	10.00 / 10.00
+
+
+	 .. HW 10:
+
+	8.50 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		7.60
+
+
+		 .. median:
+
+		8.50
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		3.00
+
+
+		 .. standard deviation:
+
+		2.27
+
+
+		 .. total:
+
+		76.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	8.00 / 30.00
+
+
+	 .. Test:
+
+	37.50 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		22.75
+
+
+		 .. median:
+
+		22.75
+
+
+		 .. maximum:
+
+		37.50
+
+
+		 .. minimum:
+
+		8.00
+
+
+		 .. standard deviation:
+
+		14.75
+
+
+		 .. total:
+
+		45.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	1.40
+
+
+	 .. exam improvement curve:
+
+	10.62
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		5.67
+
+
+		 .. median:
+
+		5.00
+
+
+		 .. maximum:
+
+		10.62
+
+
+		 .. minimum:
+
+		1.40
+
+
+		 .. standard deviation:
+
+		3.80
+
+
+		 .. total:
+
+		17.02
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+138.53
+
+ .. GRADE:
+
+A-
+
+==========
+
+ .. NAME:
+
+Cammy White
+
+ .. ID NUMBER:
+
+88494
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	1.00 / 10.00
+
+
+	 .. HW 2:
+
+	2.00 / 10.00
+
+
+	 .. HW 3:
+
+	3.00 / 10.00
+
+
+	 .. HW 4:
+
+	nan / 10.00
+
+
+	 .. HW 5:
+
+	5.00 / 10.00
+
+
+	 .. HW 6:
+
+	4.00 / 10.00
+
+
+	 .. HW 7:
+
+	6.00 / 10.00
+
+
+	 .. HW 8:
+
+	nan / 10.00
+
+
+	 .. HW 9:
+
+	7.00 / 10.00
+
+
+	 .. HW 10:
+
+	9.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		4.62
+
+
+		 .. median:
+
+		4.50
+
+
+		 .. maximum:
+
+		9.00
+
+
+		 .. minimum:
+
+		1.00
+
+
+		 .. standard deviation:
+
+		2.50
+
+
+		 .. total:
+
+		37.00
+
+
+		 .. number missing:
+
+		2
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	15.00 / 30.00
+
+
+	 .. Test:
+
+	21.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		18.00
+
+
+		 .. median:
+
+		18.00
+
+
+		 .. maximum:
+
+		21.00
+
+
+		 .. minimum:
+
+		15.00
+
+
+		 .. standard deviation:
+
+		3.00
+
+
+		 .. total:
+
+		36.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	1.88
+
+
+	 .. exam improvement curve:
+
+	0.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		2.29
+
+
+		 .. median:
+
+		1.88
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.00
+
+
+		 .. standard deviation:
+
+		2.06
+
+
+		 .. total:
+
+		6.88
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+79.88
+
+ .. GRADE:
+
+F
+
+==========
+
+ .. NAME:
+
+Princess Jasmine
+
+ .. ID NUMBER:
+
+79933
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	0.00 / 10.00
+
+
+	 .. HW 2:
+
+	1.50 / 10.00
+
+
+	 .. HW 3:
+
+	2.50 / 10.00
+
+
+	 .. HW 4:
+
+	3.00 / 10.00
+
+
+	 .. HW 5:
+
+	2.00 / 10.00
+
+
+	 .. HW 6:
+
+	8.00 / 10.00
+
+
+	 .. HW 7:
+
+	5.50 / 10.00
+
+
+	 .. HW 8:
+
+	7.00 / 10.00
+
+
+	 .. HW 9:
+
+	5.50 / 10.00
+
+
+	 .. HW 10:
+
+	8.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		4.30
+
+
+		 .. median:
+
+		4.25
+
+
+		 .. maximum:
+
+		8.00
+
+
+		 .. minimum:
+
+		0.00
+
+
+		 .. standard deviation:
+
+		2.72
+
+
+		 .. total:
+
+		43.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	14.50 / 30.00
+
+
+	 .. Test:
+
+	19.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		16.75
+
+
+		 .. median:
+
+		16.75
+
+
+		 .. maximum:
+
+		19.00
+
+
+		 .. minimum:
+
+		14.50
+
+
+		 .. standard deviation:
+
+		2.25
+
+
+		 .. total:
+
+		33.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	2.50
+
+
+	 .. exam improvement curve:
+
+	0.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		2.50
+
+
+		 .. median:
+
+		2.50
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.00
+
+
+		 .. standard deviation:
+
+		2.04
+
+
+		 .. total:
+
+		7.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+84.00
+
+ .. GRADE:
+
+D-
+
+==========
+
+ .. NAME:
+
+Dr. Zaius
+
+ .. ID NUMBER:
+
+93293
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	8.00 / 10.00
+
+
+	 .. HW 2:
+
+	9.00 / 10.00
+
+
+	 .. HW 3:
+
+	9.50 / 10.00
+
+
+	 .. HW 4:
+
+	10.00 / 10.00
+
+
+	 .. HW 5:
+
+	9.00 / 10.00
+
+
+	 .. HW 6:
+
+	10.00 / 10.00
+
+
+	 .. HW 7:
+
+	9.50 / 10.00
+
+
+	 .. HW 8:
+
+	10.00 / 10.00
+
+
+	 .. HW 9:
+
+	9.00 / 10.00
+
+
+	 .. HW 10:
+
+	8.50 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		9.25
+
+
+		 .. median:
+
+		9.25
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		8.00
+
+
+		 .. standard deviation:
+
+		0.64
+
+
+		 .. total:
+
+		92.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	16.50 / 30.00
+
+
+	 .. Test:
+
+	43.50 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		30.00
+
+
+		 .. median:
+
+		30.00
+
+
+		 .. maximum:
+
+		43.50
+
+
+		 .. minimum:
+
+		16.50
+
+
+		 .. standard deviation:
+
+		13.50
+
+
+		 .. total:
+
+		60.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.15
+
+
+	 .. exam improvement curve:
+
+	7.81
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		4.32
+
+
+		 .. median:
+
+		5.00
+
+
+		 .. maximum:
+
+		7.81
+
+
+		 .. minimum:
+
+		0.15
+
+
+		 .. standard deviation:
+
+		3.16
+
+
+		 .. total:
+
+		12.96
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+165.46
+
+ .. GRADE:
+
+A+
+
+==========
+
+ .. NAME:
+
+Thomas Light
+
+ .. ID NUMBER:
+
+66666
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	9.00 / 10.00
+
+
+	 .. HW 2:
+
+	9.00 / 10.00
+
+
+	 .. HW 3:
+
+	10.00 / 10.00
+
+
+	 .. HW 4:
+
+	9.50 / 10.00
+
+
+	 .. HW 5:
+
+	9.00 / 10.00
+
+
+	 .. HW 6:
+
+	10.00 / 10.00
+
+
+	 .. HW 7:
+
+	9.00 / 10.00
+
+
+	 .. HW 8:
+
+	9.50 / 10.00
+
+
+	 .. HW 9:
+
+	9.00 / 10.00
+
+
+	 .. HW 10:
+
+	9.50 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		9.35
+
+
+		 .. median:
+
+		9.25
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		9.00
+
+
+		 .. standard deviation:
+
+		0.39
+
+
+		 .. total:
+
+		93.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	28.00 / 30.00
+
+
+	 .. Test:
+
+	43.50 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		35.75
+
+
+		 .. median:
+
+		35.75
+
+
+		 .. maximum:
+
+		43.50
+
+
+		 .. minimum:
+
+		28.00
+
+
+		 .. standard deviation:
+
+		7.75
+
+
+		 .. total:
+
+		71.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.05
+
+
+	 .. exam improvement curve:
+
+	0.62
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		1.89
+
+
+		 .. median:
+
+		0.62
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.05
+
+
+		 .. standard deviation:
+
+		2.21
+
+
+		 .. total:
+
+		5.67
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+170.68
+
+ .. GRADE:
+
+A+
+
+==========
+
+ .. NAME:
+
+Diddy Kong
+
+ .. ID NUMBER:
+
+93821
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	nan / 10.00
+
+
+	 .. HW 2:
+
+	9.00 / 10.00
+
+
+	 .. HW 3:
+
+	10.00 / 10.00
+
+
+	 .. HW 4:
+
+	9.00 / 10.00
+
+
+	 .. HW 5:
+
+	10.00 / 10.00
+
+
+	 .. HW 6:
+
+	10.00 / 10.00
+
+
+	 .. HW 7:
+
+	9.50 / 10.00
+
+
+	 .. HW 8:
+
+	10.00 / 10.00
+
+
+	 .. HW 9:
+
+	10.00 / 10.00
+
+
+	 .. HW 10:
+
+	10.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		9.72
+
+
+		 .. median:
+
+		10.00
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		9.00
+
+
+		 .. standard deviation:
+
+		0.42
+
+
+		 .. total:
+
+		87.50
+
+
+		 .. number missing:
+
+		1
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	27.50 / 30.00
+
+
+	 .. Test:
+
+	40.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		33.75
+
+
+		 .. median:
+
+		33.75
+
+
+		 .. maximum:
+
+		40.00
+
+
+		 .. minimum:
+
+		27.50
+
+
+		 .. standard deviation:
+
+		6.25
+
+
+		 .. total:
+
+		67.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.20
+
+
+	 .. exam improvement curve:
+
+	0.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		1.73
+
+
+		 .. median:
+
+		0.20
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.00
+
+
+		 .. standard deviation:
+
+		2.31
+
+
+		 .. total:
+
+		5.20
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+160.20
+
+ .. GRADE:
+
+A+
+
+==========
+
+ .. NAME:
+
+Samus Aran
+
+ .. ID NUMBER:
+
+22442
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	9.00 / 10.00
+
+
+	 .. HW 2:
+
+	8.50 / 10.00
+
+
+	 .. HW 3:
+
+	8.50 / 10.00
+
+
+	 .. HW 4:
+
+	9.00 / 10.00
+
+
+	 .. HW 5:
+
+	7.00 / 10.00
+
+
+	 .. HW 6:
+
+	nan / 10.00
+
+
+	 .. HW 7:
+
+	8.50 / 10.00
+
+
+	 .. HW 8:
+
+	9.00 / 10.00
+
+
+	 .. HW 9:
+
+	9.50 / 10.00
+
+
+	 .. HW 10:
+
+	9.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		8.67
+
+
+		 .. median:
+
+		9.00
+
+
+		 .. maximum:
+
+		9.50
+
+
+		 .. minimum:
+
+		7.00
+
+
+		 .. standard deviation:
+
+		0.67
+
+
+		 .. total:
+
+		78.00
+
+
+		 .. number missing:
+
+		1
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	26.00 / 30.00
+
+
+	 .. Test:
+
+	38.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		32.00
+
+
+		 .. median:
+
+		32.00
+
+
+		 .. maximum:
+
+		38.00
+
+
+		 .. minimum:
+
+		26.00
+
+
+		 .. standard deviation:
+
+		6.00
+
+
+		 .. total:
+
+		64.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.30
+
+
+	 .. exam improvement curve:
+
+	0.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		1.77
+
+
+		 .. median:
+
+		0.30
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.00
+
+
+		 .. standard deviation:
+
+		2.29
+
+
+		 .. total:
+
+		5.30
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+147.30
+
+ .. GRADE:
+
+A
+
+==========
+
+ .. NAME:
+
+Angela Moore Hunter
+
+ .. ID NUMBER:
+
+38393
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	7.00 / 10.00
+
+
+	 .. HW 2:
+
+	9.00 / 10.00
+
+
+	 .. HW 3:
+
+	9.00 / 10.00
+
+
+	 .. HW 4:
+
+	8.00 / 10.00
+
+
+	 .. HW 5:
+
+	8.00 / 10.00
+
+
+	 .. HW 6:
+
+	8.50 / 10.00
+
+
+	 .. HW 7:
+
+	9.00 / 10.00
+
+
+	 .. HW 8:
+
+	8.00 / 10.00
+
+
+	 .. HW 9:
+
+	10.00 / 10.00
+
+
+	 .. HW 10:
+
+	8.50 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		8.50
+
+
+		 .. median:
+
+		8.50
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		7.00
+
+
+		 .. standard deviation:
+
+		0.77
+
+
+		 .. total:
+
+		85.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	24.00 / 30.00
+
+
+	 .. Test:
+
+	38.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		31.00
+
+
+		 .. median:
+
+		31.00
+
+
+		 .. maximum:
+
+		38.00
+
+
+		 .. minimum:
+
+		24.00
+
+
+		 .. standard deviation:
+
+		7.00
+
+
+		 .. total:
+
+		62.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.30
+
+
+	 .. exam improvement curve:
+
+	0.83
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		2.04
+
+
+		 .. median:
+
+		0.83
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.30
+
+
+		 .. standard deviation:
+
+		2.10
+
+
+		 .. total:
+
+		6.13
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+153.13
+
+ .. GRADE:
+
+A+
+
+==========
+
+ .. NAME:
+
+Mr. Robot
+
+ .. ID NUMBER:
+
+78843
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	4.00 / 10.00
+
+
+	 .. HW 2:
+
+	5.00 / 10.00
+
+
+	 .. HW 3:
+
+	2.50 / 10.00
+
+
+	 .. HW 4:
+
+	5.00 / 10.00
+
+
+	 .. HW 5:
+
+	4.50 / 10.00
+
+
+	 .. HW 6:
+
+	6.50 / 10.00
+
+
+	 .. HW 7:
+
+	6.00 / 10.00
+
+
+	 .. HW 8:
+
+	2.00 / 10.00
+
+
+	 .. HW 9:
+
+	9.00 / 10.00
+
+
+	 .. HW 10:
+
+	7.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		5.15
+
+
+		 .. median:
+
+		5.00
+
+
+		 .. maximum:
+
+		9.00
+
+
+		 .. minimum:
+
+		2.00
+
+
+		 .. standard deviation:
+
+		1.99
+
+
+		 .. total:
+
+		51.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	20.50 / 30.00
+
+
+	 .. Test:
+
+	36.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		28.25
+
+
+		 .. median:
+
+		28.25
+
+
+		 .. maximum:
+
+		36.00
+
+
+		 .. minimum:
+
+		20.50
+
+
+		 .. standard deviation:
+
+		7.75
+
+
+		 .. total:
+
+		56.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.95
+
+
+	 .. exam improvement curve:
+
+	2.19
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		2.71
+
+
+		 .. median:
+
+		2.19
+
+
+		 .. maximum:
+
+		5.00
+
+
+		 .. minimum:
+
+		0.95
+
+
+		 .. standard deviation:
+
+		1.69
+
+
+		 .. total:
+
+		8.14
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+116.14
+
+ .. GRADE:
+
+C+
+
+==========
+
+ .. NAME:
+
+Invader Zim
+
+ .. ID NUMBER:
+
+20496
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	5.00 / 10.00
+
+
+	 .. HW 2:
+
+	6.00 / 10.00
+
+
+	 .. HW 3:
+
+	8.00 / 10.00
+
+
+	 .. HW 4:
+
+	6.50 / 10.00
+
+
+	 .. HW 5:
+
+	7.50 / 10.00
+
+
+	 .. HW 6:
+
+	4.00 / 10.00
+
+
+	 .. HW 7:
+
+	8.00 / 10.00
+
+
+	 .. HW 8:
+
+	7.50 / 10.00
+
+
+	 .. HW 9:
+
+	2.00 / 10.00
+
+
+	 .. HW 10:
+
+	1.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		5.55
+
+
+		 .. median:
+
+		6.25
+
+
+		 .. maximum:
+
+		8.00
+
+
+		 .. minimum:
+
+		1.00
+
+
+		 .. standard deviation:
+
+		2.38
+
+
+		 .. total:
+
+		55.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	11.00 / 30.00
+
+
+	 .. Test:
+
+	36.50 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		23.75
+
+
+		 .. median:
+
+		23.75
+
+
+		 .. maximum:
+
+		36.50
+
+
+		 .. minimum:
+
+		11.00
+
+
+		 .. standard deviation:
+
+		12.75
+
+
+		 .. total:
+
+		47.50
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	0.00
+
+
+	 .. exam improvement curve:
+
+	8.33
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		4.44
+
+
+		 .. median:
+
+		5.00
+
+
+		 .. maximum:
+
+		8.33
+
+
+		 .. minimum:
+
+		0.00
+
+
+		 .. standard deviation:
+
+		3.42
+
+
+		 .. total:
+
+		13.33
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+116.33
+
+ .. GRADE:
+
+C+
+
+==========
+
+ .. NAME:
+
+Helga Potaki
+
+ .. ID NUMBER:
+
+43743
+
+ .. EMAIL ADDRESS:
+
+None
+
+
+ .. HOME-WORK:
+
+
+	 .. HW 1:
+
+	1.00 / 10.00
+
+
+	 .. HW 2:
+
+	2.00 / 10.00
+
+
+	 .. HW 3:
+
+	3.00 / 10.00
+
+
+	 .. HW 4:
+
+	4.00 / 10.00
+
+
+	 .. HW 5:
+
+	5.00 / 10.00
+
+
+	 .. HW 6:
+
+	6.00 / 10.00
+
+
+	 .. HW 7:
+
+	7.00 / 10.00
+
+
+	 .. HW 8:
+
+	8.00 / 10.00
+
+
+	 .. HW 9:
+
+	9.00 / 10.00
+
+
+	 .. HW 10:
+
+	10.00 / 10.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		5.50
+
+
+		 .. median:
+
+		5.50
+
+
+		 .. maximum:
+
+		10.00
+
+
+		 .. minimum:
+
+		1.00
+
+
+		 .. standard deviation:
+
+		2.87
+
+
+		 .. total:
+
+		55.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXAM:
+
+
+	 .. Quiz:
+
+	15.00 / 30.00
+
+
+	 .. Test:
+
+	36.00 / 45.00
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		25.50
+
+
+		 .. median:
+
+		25.50
+
+
+		 .. maximum:
+
+		36.00
+
+
+		 .. minimum:
+
+		15.00
+
+
+		 .. standard deviation:
+
+		10.50
+
+
+		 .. total:
+
+		51.00
+
+
+		 .. number missing:
+
+		0
+
+
+ .. EXTRA CREDIT:
+
+None
+
+
+ .. CURVES:
+
+
+	 .. flat curve:
+
+	5.00
+
+
+	 .. home-work improvement curve:
+
+	2.50
+
+
+	 .. exam improvement curve:
+
+	5.63
+
+
+	 .. statistics:
+
+
+		 .. mean:
+
+		4.38
+
+
+		 .. median:
+
+		5.00
+
+
+		 .. maximum:
+
+		5.63
+
+
+		 .. minimum:
+
+		2.50
+
+
+		 .. standard deviation:
+
+		1.35
+
+
+		 .. total:
+
+		13.12
+
+
+		 .. number missing:
+
+		0
+
+
+ .. POINTS:
+
+119.12
+
+ .. GRADE:
+
+B-

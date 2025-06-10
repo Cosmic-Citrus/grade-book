@@ -95,7 +95,9 @@ Once the grade-book is initialized, one can view this data in a variety of plots
 
 ## To-Do
 
-* modify heat-maps by moving xticklabel of perfect score from bottom x-axis to top x--axis
+* modify heat-maps by either transforming 2-D data or by moving xticklabels from bottom x-axis to top x-axis
+
+* fix `missing number student scores` in legend of heat-maps
 
 * add email functionality
 

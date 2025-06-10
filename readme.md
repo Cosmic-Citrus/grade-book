@@ -81,6 +81,7 @@ Once the grade-book is initialized, one can view this data in a variety of plots
 * numpy == 1.26.4
 * matplotlib == 3.9.4
 * pandas == 2.2.3
+* collections (default)
 
 ### Executing program
 

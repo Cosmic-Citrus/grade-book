@@ -1,18 +1,32 @@
 # Repo:    grade-book
 
-The purpose of this code is to automate the assignment of grades.
+The purpose of this code is to automate the management of a grade book.
 
 ## Description
 
-Given the path to a file containing student scores, this code can calculate various statistics, assess student improvement, and assign grades to scores. The user must specify the index of each column that corresponds to a particular score or student attribute before reading in a data-file; valid extensions for the data-file include ".txt", ".csv", or ".xlsx". The grade-book works by initializing dictionary data separately for "home-work", "exam", "extra credit", and "curve" before aggregating results. This code is a functional roughdraft - it's a bit messy to modify; I intend to organize this code to be less bloated at some point in the future. 
+Given the path to a file containing student scores, this code can:
+* assess student improvement
+* calculate curves
+* calculate aggregated scores and statistics
+* assign grades
+* plot various metrics
+
+The code works by separating scores into the following different categories:
+* `home-work`
+* `exam`
+* `extra credit`
+* `curve`
+
+
+The user must also specify the index of each column that corresponds to a particular score or student attribute before reading in a data-file; valid extensions for the data-file include ".txt", ".csv", or ".xlsx". The image below is a screenshot of fake student names and scores that are used as an example.
 
 ![example-data](data/data_screenshot.png)
 
-The image above is a screenshot of fake student names and scores used as an example. The first row (indexed by `0`) shows the maximum score for each assignment; all rows below the first row correspond to a student. The maximum scores are necessary to calculate percentages; because extra credit points and curve points are considered bonus points, they are exempt from percentages. The first column (indexed by `0`) shows the student name. To differentiate between missing scores and zero-scores, missing scores are denoted by NaN (Not a Number).
+The first row (indexed by `0`) shows the maximum score for each assignment; each row below the first row corresponds to a student. The maximum scores are necessary to calculate percentages. Note that percentages are not applied to extra credit points and curve points because these are considered bonus points; this is because curves based upon improvement have unrealistic upper bounds; however, one can optionally bound the maximum possible curve. Similarly, I figured that extra credit assignments with maximum possible scores could be incorporated into the `home-work` category. The first column (indexed by `0`) shows the student name. To differentiate between missing scores and zero-scores, missing scores are denoted by NaN (Not a Number) in the data file.
 
-One can specify the grade-boundaries; if `points_at_ace` is not provided, then the minimum number of points to earn an $A+$ is $95$ % of the maximum possible point total (not including extra credit scores and curve scores, if provided); if `points_at_fail` is not provided, then the maximum number of points to earn a $D-$ is given as half of `points_at_ace`. One can also specify the grade-boundaries in-between `points_at_ace` and `points_at_fail`; if not provided, then the boundaries are selected to allocate an equal number of points to each sub-division. In addition to this, one can choose `side_bias="left"` (lower-bound $\leq$ score $<$ upper-bound ) or `side_bias="right"` (lower-bound $<$ score $\leq$ upper-bound ). This example uses `points_at_fail=80`, `points_at_ace=150`, and `side_bias="left"`.
+One can specify the grade-boundaries; if `points_at_ace` is not provided, then the default value of the minimum number of points required to earn an $A+$ is $95$ % of the maximum possible point total (not including extra credit scores and curve scores, if provided). If `points_at_fail` is not provided, then the default value of the maximum number of points to earn a $D-$ is given as half of `points_at_ace`. One can also specify the grade-boundaries in-between `points_at_ace` and `points_at_fail`; if not provided, then the boundaries are selected to allocate an equal number of points to each sub-division. In addition to this, one can choose `side_bias="left"` (lower-bound $\leq$ score $<$ upper-bound ) or `side_bias="right"` (lower-bound $<$ score $\leq$ upper-bound ). This example uses `points_at_fail=80`, `points_at_ace=150`, and `side_bias="left"`.
 
-This code can apply flat curves and improvement curves. A flat curve is a curve that allocates the same number of points to each student; conversely, the improvement curve is based upon the difference of the weighted average of the second-half of scores and the first-half of scores, and is calculated by multiplying this value by a scale-factor. For this example, the home-work improvement curve would compare the second-half of scores (HW 6 $-$ 10) with the first half of scores (HW 1 $-$ 5). The final scores are recalculated each time the curves are updated or removed. When calculating curves, missing scores are treated as zero-scores.
+This code can apply flat curves and improvement curves. A flat curve is a curve that allocates the same number of points to each student; conversely, the improvement curve is based upon the average of the weighted differences of the second-half of scores to the first-half of scores, and is calculated by multiplying this average value by a scale-factor. For this example, the home-work improvement curve would compare the second-half of scores (HW 6 $-$ 10) with the first half of scores (HW 1 $-$ 5). The final scores are recalculated each time the curves are updated or removed. When calculating curves, missing scores are treated as zero-scores.
 
 Once the grade-book is initialized, one can view this data in a variety of plots. 
 

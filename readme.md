@@ -12,10 +12,10 @@ Given the path to a file containing student scores, this code can:
 * plot various metrics
 
 The code works by separating scores into the following different categories:
-* `home-work`
-* `exam`
-* `extra credit`
-* `curve`
+* `"home-work"`
+* `"exam"`
+* `"extra credit"`
+* `"curve"`
 
 
 The user must also specify the index of each column that corresponds to a particular score or student attribute before reading in a data-file; valid extensions for the data-file include ".txt", ".csv", or ".xlsx". The image below is a screenshot of fake student names and scores that are used as an example.

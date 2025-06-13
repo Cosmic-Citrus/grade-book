@@ -115,6 +115,8 @@ Once the grade-book is initialized, one can view this data in a variety of plots
 
 * fix `missing number student scores` in legend of heat-maps
 
+* use different color-map for each category of scores in plots of cumulative bar-stacks
+
 * add email functionality
 
 * add gui
